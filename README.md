@@ -27,3 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itlifean&show_icons=true&theme=github_dark&hide_border=true" width="48%">
  
 </p>
+---
+### ✦ Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=itlifean&theme=github-dark&hide_border=true">
+</p>
+
