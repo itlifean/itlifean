@@ -15,4 +15,6 @@
 📫 **Reach me on:**  
 [LinkedIn](https://linkedin.com/in/ana-oganesian-5836281a8) | [GitHub](https://github.com/itlifean)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itlifean&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ana%20Oganesian&fontSize=40&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20|%20ClickUp%20Expert&descAlignY=55&descAlign=50">
+</p>
