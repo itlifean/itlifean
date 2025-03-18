@@ -16,5 +16,5 @@
 [LinkedIn](https://linkedin.com/in/ana-oganesian-5836281a8) | [GitHub](https://github.com/itlifean)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=120&section=header&text=Ana%20Oganesian&fontSize=35&fontColor=white&fontAlignY=50">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 50%, rgba(64,64,64,1) 100%)&height=150&section=header&text=Ana%20Oganesian&fontSize=35&fontColor=white&animation=fadeIn">
 </p>
