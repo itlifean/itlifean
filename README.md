@@ -16,5 +16,5 @@
 [LinkedIn](https://linkedin.com/in/ana-oganesian-5836281a8) | [GitHub](https://github.com/itlifean)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ana%20Oganesian&fontSize=40&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20|%20ClickUp%20Expert&descAlignY=55&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Ana%20Oganesian&fontSize=40&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20|%20ClickUp%20Expert&descAlignY=55&descAlign=50">
 </p>
